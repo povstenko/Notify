@@ -1,0 +1,140 @@
+header .header-bg {
+  border-top: 10px solid #2ecc71;
+  height: 600px;
+  padding-top: 160px;
+  padding-left: 330px;
+  background: url(../images/slider.png); }
+  header .header-bg .header-content {
+    color: white;
+    width: 380px; }
+  header .header-bg .select-os {
+    margin-top: 35px; }
+    header .header-bg .select-os a {
+      display: inline-block;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background-color: #352219;
+      padding-left: 13px;
+      padding-top: 10px;
+      margin-right: 10px; }
+      header .header-bg .select-os a:hover {
+        background-color: #2ecc71; }
+
+main .s1 .blocks {
+  margin-top: 65px; }
+  main .s1 .blocks .block {
+    text-align: center;
+    margin-bottom: 60px; }
+    main .s1 .blocks .block a {
+      display: inline-block;
+      background-color: #2ecc71;
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      text-align: center;
+      position: relative;
+      margin-bottom: 30px; }
+      main .s1 .blocks .block a:hover {
+        background-color: #1be972; }
+      main .s1 .blocks .block a img {
+        position: absolute; }
+      main .s1 .blocks .block a .img1 {
+        top: 29px;
+        left: 29px; }
+      main .s1 .blocks .block a .img2 {
+        top: 20px;
+        left: 20px; }
+      main .s1 .blocks .block a .img3 {
+        top: 25px;
+        left: 25px; }
+    main .s1 .blocks .block .subscribe {
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 30px; }
+main .s2 .contact-form-blocks {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  margin-bottom: 60px;
+  background-color: #e3e3e3; }
+  main .s2 .contact-form-blocks .form-block {
+    padding-left: 30px; }
+    main .s2 .contact-form-blocks .form-block h1 {
+      font-size: 35px;
+      margin-bottom: 30px; }
+    main .s2 .contact-form-blocks .form-block p {
+      display: bloc;
+      margin-bottom: 30px; }
+    main .s2 .contact-form-blocks .form-block form {
+      position: relative; }
+      main .s2 .contact-form-blocks .form-block form input {
+        padding: 13px;
+        width: 300px;
+        height: 60px;
+        border-radius: 20px;
+        border: none; }
+      main .s2 .contact-form-blocks .form-block form button {
+        position: absolute;
+        right: 110px;
+        height: 60px;
+        width: 135px;
+        background-color: #2dcc70;
+        border: none;
+        border-radius: 0px 20px 20px 0px; }
+        main .s2 .contact-form-blocks .form-block form button:hover {
+          background-color: #23e474; }
+main .s3 .pre-text {
+  display: block;
+  text-align: center;
+  margin-bottom: 35px; }
+main .s3 .slider-block {
+  width: 100%;
+  text-align: center; }
+  main .s3 .slider-block a {
+    display: inline-block;
+    width: 52px;
+    height: 52px;
+    margin-right: 15px; }
+    main .s3 .slider-block a:hover {
+      border: 2px solid #23e474; }
+  main .s3 .slider-block .slide1 {
+    background-image: url(../images/slider1.png); }
+  main .s3 .slider-block .slide2 {
+    background-image: url(../images/slider2.png); }
+  main .s3 .slider-block .slide3 {
+    background-image: url(../images/slider3.png); }
+  main .s3 .slider-block .slide4 {
+    background-image: url(../images/slider4.png); }
+  main .s3 .slider-block .slide5 {
+    background-image: url(../images/slider1.png); }
+  main .s3 .slider-block .slide6 {
+    background-image: url(../images/slider6.png); }
+  main .s3 .slider-block .slide7 {
+    background-image: url(../images/slider7.png); }
+main .s3 .soc-blocks .sc-text {
+  display: block;
+  text-align: center;
+  margin-top: 30px; }
+main .s3 .soc-blocks .sc-title {
+  display: block;
+  text-align: center;
+  font-size: 26px;
+  font-weight: bold; }
+main .s3 .soc-blocks .sc-block {
+  margin-top: 30px;
+  text-align: center; }
+  main .s3 .soc-blocks .sc-block a {
+    margin-right: 10px;
+    display: inline-block;
+    width: 36px;
+    height: 37px;
+    border-radius: 25px; }
+    main .s3 .soc-blocks .sc-block a img {
+      display: block;
+      border-radius: 25px; }
+    main .s3 .soc-blocks .sc-block a:hover {
+      -webkit-box-shadow: 3px 2px 15px -1px #2dcc70;
+      -moz-box-shadow: 3px 2px 15px -1px #2dcc70;
+      box-shadow: 3px 2px 15px -1px #2dcc70; }
+
+/*# sourceMappingURL=style.css.map */
